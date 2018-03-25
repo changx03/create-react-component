@@ -1,0 +1,17 @@
+{
+  "name": "create-react-component",
+  "version": "0.0.1",
+  "description": "A simple CLI for creating React templates",
+  "main": "create-react-component-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "web",
+    "cli",
+    "framework"
+  ],
+  "author": "Luke Chang <luke@csel.co.nz>",
+  "license": "MIT"
+}
